@@ -101,9 +101,6 @@
                             <includes>
                                 <include>**/When*.java</include>
                             </includes>
-                            <systemPropertyVariables>
-                                <tags>${tags}</tags>
-                            </systemPropertyVariables>
                         </configuration>
                     </execution>
                 </executions>
